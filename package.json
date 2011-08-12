@@ -1,0 +1,19 @@
+{
+  "author": "Joey Nenni <joey.nenni@gmail.com> (http://igoat.net)",
+  "name": "milk",
+  "description": "MooTools, NodeJS, and Mongoose MVC Web Application Framework.",
+  "version": "0.0.0",
+  "homepage": "http://milkjs.org",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iGOAT/Milk.git"
+  },
+  "main": "lib/classes/milk.js",
+  "engines": {
+    "node": "~v0.4.7"
+  },
+  "dependencies": {
+    "mootools": "1.3.2"
+  },
+  "devDependencies": {}
+}
