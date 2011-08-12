@@ -1,7 +1,7 @@
 {
   "author": "Joey Nenni <joey.nenni@gmail.com> (http://igoat.net)",
   "name": "milk",
-  "description": "MooTools, NodeJS, and Mongoose MVC Web Application Framework.",
+  "description": "JavaScript MVC Framework (MooTools, Node.js)",
   "version": "0.0.0",
   "homepage": "http://milkjs.org",
   "repository": {
