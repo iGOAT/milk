@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git://github.com/iGOAT/Milk.git"
   },
-  "main": "lib/classes/milk.js",
+  "main": "lib/milk.js",
   "engines": {
     "node": "~v0.4.7"
   },
